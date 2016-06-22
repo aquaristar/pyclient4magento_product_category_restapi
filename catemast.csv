@@ -1,0 +1,150 @@
+700,Cook's Tools,2,1
+701,Bakeware,2,1
+702,Cookware,2,1
+703,Cutlery,2,1
+704,Electric,2,1
+705,Entertaining,2,1
+706,Household Helpers,2,1
+726,Aprons/Mits,700,1
+727,Asian,700,1
+728,Baking Tools,700,1
+729,Bowls/Colanders/Strainers,700,1
+730,Choppers/Slicers/Graters,700,2
+731,Coffee/Tea,700,1
+732,Egg Preparation,700,1
+733,Fruit/Vegetable Tools,700,1
+734,Meat/Poultry,700,1
+735,Mexican,700,1
+736,Pasta/Pizza,700,1
+737,Pepper & Salt Mills,700,1
+738,Prep Boards,700,1
+739,Seafood,700,1
+740,Speciality Foods,700,1
+741,Thermometer/Timers/Scales,700,1
+747,Bundt Pan,701,1
+748,Cake Pans,701,1
+749,Ceramic/Stoneware dishes,701,1
+750,Cookie Sheets/Jelly Roll,701,1
+751,Loaf Pans,701,1
+752,Muffin/Popover Pans,701,1
+753,Pie/Tart/Quiche,701,1
+754,Silicone Bakeware,701,1
+755,Speciality Pans,701,1
+756,Spring Form Pans,701,1
+812,Au Gratins,702,1
+813,Braziers/Everyday Pans,702,1
+814,Chef's Pans,702,1
+815,Cookware Sets,702,1
+816,Double Broilers,702,1
+817,Dutch Ovens/Casseroles,702,1
+818,Grills/Griddles,702,1
+819,Pressure Cookers,702,1
+820,Roasters/Broilers,702,1
+821,Sauce Pans/Sauciers,702,1
+822,Saute/Saute Use,702,1
+823,Skillets/Omelette Pans,702,1
+824,Speciality Cookware,702,1
+825,Steamers,702,1
+826,Stockpots/Multi-cookers,702,2
+827,Woks/Stir Fry,702,1
+833,Accessories,703,1
+834,Blocks/Storage,703,1
+835,Boning/Filet,703,1
+836,Bread/Serrated,703,1
+837,Carving/Slicing/Forks,703,1
+838,Chef's/Cook's Knives,703,1
+839,Cleaver,703,1
+840,Manual Sharpeners/Steels,703,1
+841,Mincing,703,1
+842,Paring,703,1
+843,Santuko,703,1
+844,Knife Sets,703,1
+845,Shears,703,1
+846,Steak Knives,703,1
+847,Tomato Knives,703,1
+848,Utility Knives,703,1
+854,Blenders,704,1
+855,Bread Machines,704,1
+856,Buffet/Warmers/Burners,704,1
+857,Coffee Makers/Grinders,704,1
+858,Deep Fryers,704,1
+859,Knives/Sharpeners/Openers,704,1
+860,Espresso Machines,704,1
+861,Food Grinders/Food Slices,704,1
+862,Food Processors,704,1
+863,Food Processor Attachment,704,1
+864,Griddles/Skillets,704,1
+865,Hand Mixers/Stand Mixers,704,1
+866,Ice Cream Makers,704,1
+867,Juicers,704,1
+868,Mixer Attachments,704,1
+869,Slow Cookers,704,1
+870,Specialty Electronics,704,1
+871,Tea Kettles,704,1
+872,Toasters/Toaster Ovens,704,1
+873,Vacuum Sealers,704,1
+874,Waffle Makers,704,1
+875,Woks/Rice Cookers,704,1
+881,Barware,705,1
+882,Buffet/Chafing Dishes,705,1
+883,Cheese Serving,705,1
+884,Fondues/Accessories,705,1
+885,Wine Tools,705,1
+891,Cleaning Tools,706,1
+892,Kitchen Organizers,706,1
+893,Pot Racks,706,1
+900,Mattresses,2,1
+901,Bedding Accessories,2,1
+902,Furniture,2,1
+903,Tables-Lamps-Rugs,2,1
+904,Sleeper Sofas,2,1
+905,Recliners,2,1
+906,Lift Chairs,2,1
+907,Shiatsu Massage,2,1
+908,Theater Seating,2,1
+910,Recliners & Chairs,2,1
+915,Shop By Size,900,1
+916,California King,915,1
+917,King,915,1
+918,Queen,915,1
+919,Full,915,1
+920,Twin Extra Long,915,1
+921,Twin,915,1
+922,Shop By Brand,900,1
+923,Spring Air,922,1
+924,Beautyrest,922,1
+925,Restonic,922,1
+926,Sealy,922,1
+927,Sealy Posturepedic,922,1
+928,Sealy Posturepedic Gel,922,1
+929,Optimum Sealy Posturepedic,922,1
+930,TEMPUR-PEDIC,922,1
+931,Shop By Comfort,900,1
+932,Ultra Plush,931,1
+933,Plush,931,1
+934,Medium,931,1
+935,Firm,931,1
+936,Extra Firm,931,1
+938,Shop By Type,900,1
+939,Innerspring,938,1
+940,Latex,938,1
+941,Memory Foam,938,1
+942,Gel Infused Foam,938,1
+943,Digital Adjustable Comfort,938,1
+944,Bed Frames,901,2
+945,Mattress Pads,901,1
+950,Sheets,901,1
+951,Pillows,901,1
+960,Living Room Packages,902,1
+961,Sofas,902,3
+962,Sofa Sleepers,902,3
+963,Love Seats,902,3
+964,Chairs & Ottomans,902,2
+965,Tables,903,3
+966,Lamps,903,1
+967,Rugs,903,1
+968,Reclining Chairs,905,2
+969,Shiatsu Massage,907,1
+970,Lift Chairs,906,2
+971,Theater Sectionals,908,1
+972,Sleeper Sofas,904,6

@@ -1,0 +1,543 @@
+100,Appliances,2,1
+101,Kitchen Essentials,2,1
+102,Vacuums/Floorcare,2,1
+103,Home Audio,2,1
+104,Digital Cameras,2,1
+105,Camcorders,2,1
+106,Home Video,2,1
+107,Televisions,2,1
+108,Portable Audio,2,1
+109,Small Electronics,2,1
+110,Mobile Electronics,2,1
+111,Satellite Radio,2,1
+112,Phones,2,1
+114,Computers,2,1
+115,Home Office,2,1
+119,TV Stands & Mounts,2,1
+120,Games & Gifts,2,1
+121,Connected Living,2,1
+122,Tools,2,1
+123,Furniture,2,1
+200,Air Conditioners,100,1
+201,"5,000 to 9,000 Btu Units",200,3
+203,"10,000 to 15,000 Btu Units",200,2
+204,"18,000 Btu Units & Above",200,2
+205,Front-Load Washers,211,1
+206,Portable A/C Units,200,1
+207,Dishwashers,100,1
+208,Portable Dishwashers,207,1
+209,Built-in Dishwashers,207,3
+210,Disposers,207,1
+211,Laundry,100,1
+212,Top-Load Washers,211,5
+213,Gas Dryers,211,1
+214,Electric Dryers,211,1
+215,Combo Laundry Units,211,1
+216,Microwave Ovens,100,1
+217,Counter Top,216,3
+218,Over The Range,216,2
+219,Micro/Convection,216,1
+220,Ranges/Cooktops/Built-ins,100,1
+221,Cooktops,220,3
+222,Wall Ovens,220,3
+223,Electric Ranges,220,7
+224,Gas Ranges,220,6
+225,Range Hoods,220,2
+226,Refrigerators,100,1
+227,Compact,226,2
+228,Top Mount,226,12
+229,Side-by-sides,226,7
+230,Bottom Mount,226,2
+231,Freezers,100,1
+232,Chest Freezers,231,3
+233,Upright Freezers,231,3
+234,Wine & Beer Storage,100,1
+235,Outdoor BBQ Grills,100,1
+236,Fans/Heaters/Air Cleaners,100,1
+237,Fans,236,1
+238,Heaters,236,1
+239,Humidifiers/Dehumidifiers,100,1
+240,Humidifiers,239,1
+241,Dehumidifiers,239,3
+242,Air Cleaners,236,1
+243,Coffee Makers & Essentials,101,6
+244,Mixers/Blender/Juicers,101,5
+245,Cookers/Fryers/Grills,101,8
+246,Can Openers/Electric Knives,101,3
+247,Toasters/Toaster Ovens,101,3
+248,Processors/Choppers,101,4
+249,Skillets/Griddles,101,2
+250,Cookware/Bakeware,101,1
+251,Cutlery/Cooking Utensils,101,13
+252,Miscellaneous Household  Items,101,14
+253,Dyson Vacuums,100,2
+254,3D Televisions,107,45
+255,3D Televisions,290,46
+256,Shoot & Share Camcorders,105,1
+257,Shelf Systems,103,7
+258,Home Theater/Soundbars,103,7
+259,CD Players & Recorders,103,1
+260,CD Players,259,2
+261,CD Recorders,259,1
+262,Cassette Decks,103,4
+263,Receivers,103,5
+264,Speakers,103,1
+265,Bookshelf Speakers,264,2
+266,Floor Speakers,264,2
+267,In-wall Speakers,264,1
+268,Subwoofers,264,1
+269,Center Channel Speakers,264,1
+270,Multi-speaker Systems,264,1
+271,Turntables,103,1
+272,Digital Cameras,104,1
+273,Hard-Drive Camcorders,105,1
+274,Flash Memory Camcorders,105,1
+275,High-Def Camcorders,105,1
+276,Mini-DV Camcorders,105,1
+277,DVD Camcorders,105,1
+278,Portable DVD Players,106,1
+279,Blu-Ray,106,2
+280,DVD Players,106,2
+281,VHS/DVD Players,106,1
+282,Sound Bar Speakers,264,1
+283,DVD Recorders,106,1
+284,Combo DVD Recorders,106,1
+285,Digital Satellite Systems,106,1
+286,HDTV Satellite Receivers,106,1
+287,TIVO/Hard Disc Receivers,106,3
+288,4K UHD,290,10
+289,Plasma TVs,290,8
+290,HDTVs,107,1
+291,LED TVs,290,10
+292,Projection TVs - HDTV,290,1
+293,Humidifier Accessories,239,1
+294,4K UHD,107,10
+295,OLED TVS,107,1
+295,OLED TVs,107,2
+296,LED TVs,107,10
+298,Plasma TVs,107,8
+299,Home Theater Projectors,107,1
+300,"60"" and Larger",107,9
+301,"40"" to 59""",107,16
+302,"21"" to 39""",107,6
+303,"Up To 20""",107,6
+304,TV/DVD Combo,107,3
+305,Undercounter TVs,107,1
+306,Wireless Audio,108,1
+307,AirPlay Products,108,1
+308,MP3/IPod Players,108,2
+309,Ipod Accessories,108,1
+310,IPhone/Ipod Sound Docks,108,4
+311,Headphones,108,1
+312,Portable CD Players,108,5
+313,Apple Accessories,108,3
+314,Portable Audio Players,108,3
+315,Boombox/Karaoke,108,1
+316,Boomboxes,108,7
+317,Karaoke Players,108,1
+318,HD Radio,108,1
+319,Micro Audio Systems,108,2
+320,Table Style Radios,108,2
+321,Batteries,108,2
+322,USB Chargers,108,1
+323,Digital Recorders,109,1
+324,Cassette Recorders,323,4
+325,Micro-cassette Recorders,323,3
+326,Two-way Radios,109,1
+327,CB & Marine Radios,109,3
+328,Hands-free Devices,110,1
+329,Musical Keyboards,109,2
+330,Clocks & Clock Radios,109,6
+331,Global Positioning,109,1
+332,Weather Products,109,1
+333,Under-cabinet Electronics,109,4
+334,Iphone 5 Sound Docks,108,1
+335,Weather & NOAA Radios,109,1
+336,Atomic Clocks,109,1
+337,Mobile Electronics,110,1
+338,Car Starters/Alarms,110,3
+339,Mobile Video,110,1
+340,GPS/Navigation,110,2
+341,Amps & Equalizers,110,2
+342,In-dash Decks,110,1
+343,AM/FM CD Decks,342,3
+345,Speakers,110,1
+346,Front/Rear & Door Speakers,345,3
+347,Car Subwoofers,345,1
+348,Unloaded Boxes/Accessories,345,2
+349,Marine & CB Radios,110,2
+350,Radar Detectors,110,2
+351,Power Inverters,110,1
+352,Satellite Radio,110,1
+353,SiriusXM Radio,352,1
+354,XM Radio,352,1
+355,Phones,112,1
+356,DECT 6.0 Cordless Phones,112,3
+359,HD Radio Decks,342,1
+360,Tablets,114,2
+361,Phone Accessories,112,1
+362,Phone Batteries,361,1
+362,Phone Batteries,366,1
+363,Cordless Phones,112,1
+364,5.8 GHz Cordless Phones,112,2
+365,Phone Headsets,361,1
+366,Cords & Adaptors,361,2
+367,Multi-handset Phones,112,3
+368,2-line Phones,112,1
+369,Corded Phones,112,5
+370,Answering Machines,112,1
+374,Reader Accessories,114,1
+375,Desktop Computers,114,3
+376,Notebook Computers,114,1
+377,Monitors,114,5
+378,Printers/Multi-function,114,2
+379,PC Networking,114,1
+380,PC Speakers,114,1
+381,Tablet Cases & Accessories,114,1
+382,PC Web Cams,114,1
+383,eReaders,113,1
+384,Keyboards,114,1
+385,PC Mice,114,1
+386,PC Headsets,114,1
+387,Cables & Surge Protection,114,1
+388,Hard Drives,114,1
+389,Notebook Cases,114,1
+390,Wearables,114,1
+391,Printer Cartridges,114,1
+392,Home Security/Safes,115,1
+393,Connected Home & Security,115,3
+394,Security Boxes,115,1
+395,Shredders,115,1
+396,Fax Machines,115,1
+397,Home Office Furniture,115,1
+398,Cassette Recorders,115,4
+399,Micro-cassette Recorders,115,3
+400,Digital Recorders,115,1
+401,Lamps/Lighting,115,1
+403,Furniture,119,1
+404,Home Office Furniture,119,3
+405,"TV Stands 20"" to 29"" Wide",119,4
+406,"TV Stands 30"" to 34"" Wide",119,5
+407,"TV Stands - Up To 39""",119,3
+408,"TV Stands 40"" & Larger TV",119,3
+409,Flat Panel TV Stands,119,1
+410,Audio Stands,119,2
+411,TV Wall Mounts/Swivels,119,1
+412,TV Mounting Solutions,119,1
+413,TV Stands With Mounts,119,1
+414,Ceiling TV Wall Mounts,412,1
+415,Speaker Stands,119,1
+416,Speaker Mounts,119,1
+417,Component Wall Mounts,119,1
+419,Digital Recorders,323,1
+420,Flat TV Wall Mounts,412,1
+421,Personal Care,101,6
+423,Toys & Fun Items,120,11
+424,Charcoal Grills,235,1
+428,Full Motion TV Wall Mounts,412,1
+429,Flat Panel Mount Stands,412,1
+430,Tilt TV Wall Mounts,412,1
+431,Projector TV Mounts,412,1
+432,MP3 Players,114,1
+433,Shop Vacs,102,1
+434,Handheld Vacuums,102,1
+435,Electric Brooms & Sweepers,102,1
+436,Bagged Upright Vacuums,102,1
+437,Bagless Upright Vacuums,102,1
+438,Carpet Cleaners,102,1
+439,Floor Cleaners,102,1
+440,Canister Vacuums,102,1
+441,Accessories,102,1
+442,Storage Media,114,1
+443,Camera Accessories,104,2
+444,Propane Gas Grills,235,3
+445,Grilling Accessories,235,3
+446,Flashlights/Spotlights,109,1
+447,Digital Picture Frames,104,4
+448,Built-in Refrigerators,226,1
+449,Portable/Tailgate Grills,235,1
+450,Vacuum Bags,441,1
+451,Vacuum Belts,441,1
+452,Vacuum Filters,441,1
+453,Cleaning Solutions,441,1
+454,Memory Stick,442,1
+455,SD Cards,442,1
+456,Micro SD Cards,442,1
+457,XD Cards,442,1
+458,Compact Flash,442,1
+459,Thumb Drives,442,1
+460,Storage Media,104,1
+461,Memory Stick,460,1
+462,SD Cards,460,1
+463,Micro SD Cards,460,1
+464,XD Cards,460,1
+465,Compact Flash,460,1
+466,Thumb Drives,460,1
+468,Household Tools,122,4
+469,CDR Media,442,1
+470,DVD Media,442,1
+471,PSP 2000,120,1
+472,PSP 2000 Console,471,1
+473,PSP 2000 Accessories,471,1
+474,Playstation and Accessories,120,1
+475,Natural Gas Grills,235,1
+476,Playstation Games,474,1
+477,Playstation Accessories,474,1
+478,XBOX,120,1
+479,XBOX Console,478,1
+480,XBOX Games,478,1
+481,XBOX Accessories,478,1
+482,Nintendo DSI,120,1
+483,WiiU Console & Accessories,120,2
+485,WiiU Games,483,1
+486,WIIU ACCESSORIES,,1
+486,WiiU Accessories,483,1
+488,Bluetooth phones,112,1
+489,Photo Frame Phones,112,1
+490,Amplified Phones,112,1
+492,Digital Cameras,104,1
+493,Point & Shoot,492,1
+494,High-zoom,492,1
+495,Digital SLR,492,1
+501,Droid/Smart Phone Accessories,108,1
+502,Portable TVs,109,1
+503,Camera Bags,104,1
+505,Slide-in Ranges,220,2
+506,Wireless Portable,306,1
+507,Wireless Boombox,306,1
+508,Wireless Shelf Style,306,1
+509,Wireless - Kitchen,306,2
+510,Bluetooth & Wireless Headphone,306,1
+512,Bluetooth & Wireless Headphone,311,1
+513,With In-Line Mic,311,1
+514,Bud/Clip Style,311,1
+515,Over/On-Ear,311,1
+516,Routers,379,1
+517,Network Cameras,379,1
+518,Modems,379,1
+519,Streaming Media,379,1
+520,Power Line Data,379,1
+521,Connecting Cables,379,1
+525,Surge Protection,387,1
+526,HDMI Cables,387,1
+527,Monitor Cables,387,1
+528,USB to Micro,387,1
+529,USB to Mini,387,1
+530,USB to B,387,1
+531,Cat5 Cable,387,1
+532,USB to Serial,387,1
+533,USB Power Banks,387,1
+534,AC USB Chargers,387,1
+535,DC USB Chargers,387,1
+536,USB to Lightning,387,1
+537,USB to 30-pin,387,1
+550,Piper Wi-Fi Home Security,121,1
+551,Samsung Wi-Fi Home Security,121,1
+552,Uniden Wi-Fi Home Security,121,1
+553,Samsung Wi-Fi App Cameras,121,1
+554,IZON Wi-Fi App Camera,121,1
+555,Link-2-Cell Telephones,121,1
+556,Routers,121,1
+557,Streaming Devices,121,1
+600,Magic Jack Phone Service,112,1
+601,Accessories,105,1
+602,Camera Bags,601,1
+603,Tripods,601,1
+605,Storage & Recording Media,105,1
+606,Miscellaneous...,601,1
+610,Micro SD,605,1
+611,SD Cards,605,1
+612,Micro SD Cards,605,1
+613,XD Cards,605,1
+614,Compact Flash,605,2
+615,SD Cards,605,1
+616,Mini DV Tape,605,1
+617,VHS-C Tape,605,1
+618,VHS Tape,605,1
+619,DVD Media,605,2
+620,CDR Media,605,2
+621,Thumb Drives,605,1
+626,Phone Batteries,625,1
+627,Phone Headsets,625,1
+628,Adaptors/Connectors,625,1
+629,Phone Cords,625,1
+630,Vacuum Sealers/Storage,101,1
+631,Accessories,211,1
+632,Range/Cooktop Accessories,220,1
+633,Cookware/Bakeware,220,1
+634,Media Storage,108,1
+635,Remote Controls,108,2
+636,Accessories,108,1
+637,Accessories,106,1
+638,HDMI Cables,637,1
+639,DVD Media,637,1
+640,VHS Media,637,1
+641,Video/Audio Cords,637,1
+642,Video/Audio Cords,637,1
+643,Media Storage,637,1
+644,Accessories,103,1
+645,Audio/Video Cables,644,2
+646,Headphones,644,5
+647,Audio Antennas,644,1
+648,Speaker Stands,644,1
+649,Speaker Mounts,644,1
+650,Audio Tape,644,1
+651,Accessories,107,1
+652,TV Mounts,651,4
+653,HDMI Cables,651,1
+654,Surge Protectors,651,2
+655,Video/Audio Cords,651,2
+656,Remote Controls,651,2
+657,TV Antennas,651,2
+658,Wireless Connectivity,651,1
+659,Video Screens,651,1
+700,Cook's Tools,,1
+701,Bakeware,,1
+702,Cookware,,1
+703,Cutlery,,1
+704,Electric,,1
+705,Entertaining,,1
+706,Household Helpers,,1
+726,Aprons/Mits,700,1
+727,Asian,700,1
+728,Baking Tools,700,1
+729,Bowls/Colanders/Strainers,700,1
+730,Choppers/Slicers/Graters,700,2
+731,Coffee/Tea,700,1
+732,Egg Preparation,700,1
+733,Fruit/Vegetable Tools,700,1
+734,Meat/Poultry,700,1
+735,Mexican,700,1
+736,Pasta/Pizza,700,1
+737,Pepper & Salt Mills,700,1
+738,Prep Boards,700,1
+739,Seafood,700,1
+740,Speciality Foods,700,1
+741,Thermometer/Timers/Scales,700,1
+747,Bundt Pan,701,1
+748,Cake Pans,701,1
+749,Ceramic/Stoneware dishes,701,1
+750,Cookie Sheets/Jelly Roll,701,1
+751,Loaf Pans,701,1
+752,Muffin/Popover Pans,701,1
+753,Pie/Tart/Quiche,701,1
+754,Silicone Bakeware,701,1
+755,Speciality Pans,701,1
+756,Spring Form Pans,701,1
+812,Au Gratins,702,1
+813,Braziers/Everyday Pans,702,1
+814,Chef's Pans,702,1
+815,Cookware Sets,702,1
+816,Double Broilers,702,1
+817,Dutch Ovens/Casseroles,702,1
+818,Grills/Griddles,702,1
+819,Pressure Cookers,702,1
+820,Roasters/Broilers,702,1
+821,Sauce Pans/Sauciers,702,1
+822,Saute/Saute Use,702,1
+823,Skillets/Omelette Pans,702,1
+824,Speciality Cookware,702,1
+825,Steamers,702,1
+826,Stockpots/Multi-cookers,702,2
+827,Woks/Stir Fry,702,1
+833,Accessories,703,1
+834,Blocks/Storage,703,1
+835,Boning/Filet,703,1
+836,Bread/Serrated,703,1
+837,Carving/Slicing/Forks,703,1
+838,Chef's/Cook's Knives,703,1
+839,Cleaver,703,1
+840,Manual Sharpeners/Steels,703,1
+841,Mincing,703,1
+842,Paring,703,1
+843,Santuko,703,1
+844,Knife Sets,703,1
+845,Shears,703,1
+846,Steak Knives,703,1
+847,Tomato Knives,703,1
+848,Utility Knives,703,1
+854,Blenders,704,1
+855,Bread Machines,704,1
+856,Buffet/Warmers/Burners,704,1
+857,Coffee Makers/Grinders,704,1
+858,Deep Fryers,704,1
+859,Knives/Sharpeners/Openers,704,1
+860,Espresso Machines,704,1
+861,Food Grinders/Food Slices,704,1
+862,Food Processors,704,1
+863,Food Processor Attachment,704,1
+864,Griddles/Skillets,704,1
+865,Hand Mixers/Stand Mixers,704,1
+866,Ice Cream Makers,704,1
+867,Juicers,704,1
+868,Mixer Attachments,704,1
+869,Slow Cookers,704,1
+870,Specialty Electronics,704,1
+871,Tea Kettles,704,1
+872,Toasters/Toaster Ovens,704,1
+873,Vacuum Sealers,704,1
+874,Waffle Makers,704,1
+875,Woks/Rice Cookers,704,1
+881,Barware,705,1
+882,Buffet/Chafing Dishes,705,1
+883,Cheese Serving,705,1
+884,Fondues/Accessories,705,1
+885,Wine Tools,705,1
+891,Cleaning Tools,706,1
+892,Kitchen Organizers,706,1
+893,Pot Racks,706,1
+900,Mattresses,,1
+901,Bedding Accessories,,1
+902,Furniture,,1
+903,Tables-Lamps-Rugs,,1
+904,Sleeper Sofas,,1
+905,Recliners,,1
+906,Lift Chairs,,1
+907,Shiatsu Massage,,1
+908,Theater Seating,,1
+910,Recliners & Chairs,,1
+915,Shop By Size,900,1
+916,California King,915,1
+917,King,915,1
+918,Queen,915,1
+919,Full,915,1
+920,Twin Extra Long,915,1
+921,Twin,915,1
+922,Shop By Brand,900,1
+923,Spring Air,922,1
+924,Beautyrest,922,1
+925,Restonic,922,1
+926,Sealy,922,1
+927,Sealy Posturepedic,922,1
+928,Sealy Posturepedic Gel,922,1
+929,Optimum Sealy Posturepedic,922,1
+930,TEMPUR-PEDIC,922,1
+931,Shop By Comfort,900,1
+932,Ultra Plush,931,1
+933,Plush,931,1
+934,Medium,931,1
+935,Firm,931,1
+936,Extra Firm,931,1
+938,Shop By Type,900,1
+939,Innerspring,938,1
+940,Latex,938,1
+941,Memory Foam,938,1
+942,Gel Infused Foam,938,1
+943,Digital Adjustable Comfort,938,1
+944,Bed Frames,901,2
+945,Mattress Pads,901,1
+950,Sheets,901,1
+951,Pillows,901,1
+960,Living Room Packages,902,1
+961,Sofas,902,3
+962,Sofa Sleepers,902,3
+963,Love Seats,902,3
+964,Chairs & Ottomans,902,2
+965,Tables,903,3
+966,Lamps,903,1
+967,Rugs,903,1
+968,Reclining Chairs,905,2
+969,Shiatsu Massage,907,1
+970,Lift Chairs,906,2
+971,Theater Sectionals,908,1
+972,Sleeper Sofas,904,6

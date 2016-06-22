@@ -1,0 +1,37 @@
+<product_list>
+<product>
+<brand>DANBY</brand>
+<name>DANBY DAC6011ERM REFURBISHED AIR</name>
+<url>http://www.abcwarehouse.com/product_catalog/pc_proddetails.asp~prod_id~10005</url>
+<sku>10005</sku>
+<short_desc>SD</short_desc>
+<long_desc>
+LD</long_desc>
+<image>
+http://www.abcwarehouse.com/product_images/10005_detail.jpg</image>
+<category>Appliances</category>
+<Sub_category>Air Conditioners</Sub_category>
+<Sub_category>5,000 to 9,000 Btu Units</Sub_category>
+<price>147.00</price>
+<saleprice>147.00</saleprice>
+<availability>1</availability>
+<mfn_Num>DAC6011ERM</mfn_Num>
+</product>
+<product>
+<brand>DANBY</brand>
+<name>DANBY DPA100A2GDBRM REFURBISHED AIR</name>
+<url>http://www.abcwarehouse.com/product_catalog/pc_proddetails.asp~prod_id~10006</url>
+<sku>10006</sku>
+<short_desc>SD</short_desc>
+<long_desc>LD</long_desc>
+<image>
+http://www.abcwarehouse.com/product_images/10006_detail.jpg</image>
+<category>Appliances</category>
+<Sub_category>Air Conditioners</Sub_category>
+<Sub_category>Portable A/C Units</Sub_category>
+<price>267.00</price>
+<saleprice>267.00</saleprice>
+<availability>1</availability>
+<mfn_Num>DPA100A2GDBRM</mfn_Num>
+</product>
+</product_list>
